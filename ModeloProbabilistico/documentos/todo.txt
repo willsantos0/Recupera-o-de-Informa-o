@@ -1,0 +1,24 @@
+.I 1
+.T
+Documento 1
+.W
+To do is to be.
+To be is to do.
+.I 2
+.T
+Documento 2
+.W
+To be or not to be.
+I am what I am.
+.I 3
+.T
+Documento 3
+.W
+I think therefore I am.
+Do be do be do.
+.I 4
+.T
+Documento 4
+.W
+Do do do, da da da
+Let it be, let it be.
